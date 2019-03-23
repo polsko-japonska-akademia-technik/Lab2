@@ -4,14 +4,15 @@
 //
 //*******************************************************************
 
+import java.until.Math;
 import java.util.Scanner;
 
-public class Main {
-public static void main(String[] args){
+public class Postokat{
+public static void Prostokat(String[] args){
 Scanner input = new Scanner(System.in);
-System.out.println("Podaj bok A");
+System.out.println("Podaj A");
 int a = input.nextInt();
-System.out.println("Podaj bok B");
+System.out.println("Podaj B");
 int b = input.nextInt();
 System.out.println("Pole wynosi: "+a*b+"cm2");
 System.out.println("Obwod wynosi wynosi: "+2*(a+b)+"cm2")

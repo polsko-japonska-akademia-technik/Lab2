@@ -2,7 +2,7 @@ package Request4;
 
 //*******************************************************************
 // Program Klasa szyfr Cezara.
-// Micha³ Kaczmarek s18464 i Adrian Matyszczak s19850
+// MichaÂ³ Kaczmarek s18464 i Adrian Matyszczak s19850
 //
 //*******************************************************************
 
